@@ -1,11 +1,11 @@
 # Site settings
 author: Brandon Guffey
-title: 
+title: Adventure Into Coding
 header-img: img/home-bg.png
 email: hypefox@gmail.com
 copyright_name: Brandon Guffey
 description: > # this means to ignore newlines until "baseurl:"
-  
+  The Journey Begins
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  HypeFox
